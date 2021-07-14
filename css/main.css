@@ -7813,7 +7813,7 @@ body {
     transition: border 0.2s; }
 
 #showcase {
-  background: url("/images/unnamed.jpg") bottom center/cover no-repeat;
+  background: url("/images/image1.jpg") bottom center/cover no-repeat;
   min-height: 550px;
   position: relative; }
   #showcase #header {
