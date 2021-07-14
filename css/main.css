@@ -7812,8 +7812,16 @@ body {
     border-bottom: 1px solid white;
     transition: border 0.2s; }
 
+.navbar-brand{
+  display: flex;
+  align-items: center;
+
+}
+.navbar-brand img{
+  width: 15%;
+}
 #showcase {
-  background: url("/images/image1.jpg") bottom center/cover no-repeat;
+  background: url("../images/image1.jpg") bottom center/cover no-repeat;
   min-height: 550px;
   position: relative; }
   #showcase #header {
